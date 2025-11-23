@@ -4,6 +4,7 @@
 *Date: [DD/MM/YYYY]*
 
 ## 1. Executive Summary  
+<img width="1855" height="701" alt="image" src="https://github.com/user-attachments/assets/93bba017-888f-4a14-b0a2-7bfda17d70d2" />
 Provide a concise overview of the SOC report, high-level findings, detected incidents, and overall security posture.  
 **Example placeholders:**  
 - Overall risk level: `[Low/Medium/High]`  
