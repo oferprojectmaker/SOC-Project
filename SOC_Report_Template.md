@@ -13,7 +13,7 @@ Provide a concise overview of the SOC report, high-level findings, detected inci
 - Key recommendations: `[Summary]`
 
 ## 2. Scope of the Report  
-![Description](Images/ABC.png)
+![Description](Images2/ABC.png)
 Define what this report covers, including time range and monitoring boundaries.  
 - Reporting period: `[Start Date] – [End Date]`  
 - Monitored environments: `[On-prem / Cloud / Hybrid]`  
